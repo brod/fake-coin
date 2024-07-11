@@ -23,7 +23,7 @@ Before you can run the program, make sure you have the following dependencies in
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/fake-gold-coin-finder.git
+   git clone https://github.com/brod/fake-gold-coin-finder.git
    cd fake-gold-coin-finder
 2. Install dependencies:
     ```bash
